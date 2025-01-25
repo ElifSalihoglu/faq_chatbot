@@ -1,0 +1,150 @@
+[
+    {
+        "question": "Mir wurde der falsche Betrag abgezogen. Was soll ich tun?",
+        "answer": "Falls Booking.com Ihnen einen falschen Betrag abgezogen hat: Bitte gehen Sie zurKundenhilfe. Wir benötigen womöglich eine Kopie Ihres Bankauszugs, auf dem der falsche abgezogene Betrag zu sehen ist. Fügen Sie außerdem Ihre Bestätigungsnummer sowie den PIN-Code hinzu.Falls die Unterkunft Ihnen einen falschen Betrag abgezogen hat: Bitte wenden Sie sich direkt an die Unterkunft. Sie wird Ihnen bei dieser Angelegenheit behilflich sein."
+    },
+    {
+        "question": "Wo kann ich bestätigen, dass ich meine Buchung bezahlt habe?",
+        "answer": "Ihre Zahlungsbestätigung erhalten Sie in Ihrer Bestätigungs-E-Mail. In dieser E-Mail finden Sie auch die Möglichkeit, die Zahlungsbestätigung als PDF herunterzuladen."
+    },
+    {
+        "question": "Wo kann ich die Zahlungsrichtlinie meiner Buchung sehen?",
+        "answer": "Booking.com wird Ihre Karte mit dem Gesamtpreis der Buchung belasten, wenn Sie buchen. Falls Sie mehr Informationen zu Ihrer Zahlung wünschen, sehen Sie bitte in Ihrer Bestätigungs-E-Mail nach."
+    },
+    {
+        "question": "Mir wurde der Betrag abgezogen. Muss ich noch etwas tun?",
+        "answer": "Nein, sie müssen nichts tun. Wir haben den Preis Ihrer Buchung abgezogen. Sollte es irgendwelche zusätzlichen Steuern oder Gebühren geben, sollten diese Informationen auf der Unterkunftsseite zu sehen sein."
+    },
+    {
+        "question": "Muss ich bei meiner Ankunft irgendwelche Zusatzkosten zahlen?",
+        "answer": "Manchmal müssen Sie bei Ihrer Ankunft Steuern und Gebühren nachzahlen. In diesem Fall wird der Betrag vor dem Buchen und erneut in Ihrer Bestätigungs-E-Mail angegeben. Sollte kein Betrag angezeigt werden, sollten Sie bei Ihrer Anreise nichts weiter zahlen müssen.Falls die Unterkunft noch Geld von Ihnen verlangen sollte und Sie der Meinung sind, dass das nicht rechtens ist, gehen Sie bitte zurKundenhilfe. Wir helfen Ihnen dann bei dieser Angelegenheit weiter."
+    },
+    {
+        "question": "Wie füge ich meine Buchung zu meinem Konto hinzu?",
+        "answer": "Leider kann diese Buchung nicht zu Ihrem Konto hinzugefügt werden. Wir arbeiten daran, diese Option in Zukunft bereitzustellen."
+    },
+    {
+        "question": "Sind Mahlzeiten in meiner Buchung inbegriffen?",
+        "answer": "Sie erfahren in Ihrer Bestätigungs-E-Mail, ob irgendwelche Mahlzeiten inbegriffen sind oder nicht. Je nach Unterkunft ist es eventuell möglich, bei Ihrer Ankunft Verpflegung hinzuzubuchen. Bitte kontaktieren Sie 1-2 Tage vor Ihrem Aufenthalt direkt die Unterkunft, um mehr zu erfahren."
+    },
+    {
+        "question": "Bei meiner Ankunft habe ich erfahren, dass mein Zimmer/meine Unterkunft nicht das war, was ich gebucht hatte. Was soll ich tun?",
+        "answer": "Bitte gehen Sie zu unsererKundenhilfe. Dort werden Sie womöglich einen Screenshot der nicht zusammenpassenden Informationen sowie einen Beleg als Zahlungsnachweis, falls Sie zusätzliche Gebühren zahlen mussten, an unseren Kundenservice schicken müssen."
+    },
+    {
+        "question": "Meine Buchung wurde storniert. Wann erhalte ich meine Rückerstattung?",
+        "answer": "Wenn Ihre Buchung storniert wurde, erhalten Sie von Booking.com sofort eine Rückerstattung. Die Bearbeitungszeit kann möglicherweise 7 bis 12 Tage dauern. Das hängt von Ihrer Bank ab. Wenden Sie sich bei Fragen bitte direkt an Ihre Bank."
+    },
+    {
+        "question": "Kann ich meine Buchung stornieren?",
+        "answer": "Sollte Ihre Buchung nicht kostenlos stornierbar sein, können Sie sie nicht stornieren. Wenn Sie eine Buchung mit kostenloser Stornierung haben oder sie teilweise erstattbar ist, finden Sie die Stornierungsgebühren in Ihrer Bestätigungs-E-Mail oder auf der Bestätigungsseite im Bereich „Buchungen” Ihres Kontos."
+    },
+    {
+        "question": "Kann ich meine Buchung ändern?",
+        "answer": "Leider können Sie Ihre Buchung nicht mehr ändern. Angaben wie Aufenthaltsdaten, Namen des Gastes/der Gäste oder die E-Mail-Adresse bleiben verbindlich."
+    },
+    {
+        "question": "Meine Buchung wurde storniert oder abgelehnt. Was soll ich tun?",
+        "answer": "Da diese Buchung von einem Partnerunternehmen durchgeführt wird, kann die Unterkunft eventuell überbucht sein. In solch einem Fall informiert uns der Partner. Im nächsten Schritt erhalten Sie von uns eine Rückerstattung und wir stornieren Ihre Buchung.Die Bearbeitungszeit kann 7 bis 10 Tage dauern und hängt von Ihrer Bank ab. Bei Fragen kontaktieren Sie bitte Ihre Bank."
+    },
+    {
+        "question": "Muss ich eine Gebühr zahlen, wenn ich meine Buchung stornieren muss?",
+        "answer": "Sollte Ihre Buchung nicht kostenlos stornierbar sein, können Sie sie weder stornieren noch ändern. Wenn Sie eine Buchung mit kostenloser Stornierung haben oder sie teilweise erstattbar ist, finden Sie die Stornierungsgebühren in Ihrer Bestätigungs-E-Mail oder auf der Bestätigungsseite im Bereich „Buchungen” Ihres Kontos."
+    },
+    {
+        "question": "Wie kann ich sicher sein, dass meine Buchung storniert wurde?",
+        "answer": "Nach der Stornierung Ihrer Buchung sollten Sie eine E-Mail erhalten, die die Stornierung bestätigt. Sehen Sie in Ihrem Posteingang und Spam-Ordner nach.Sollten Sie eine E-Mail von Booking.com erhalten, in der die Stornierung Ihrer Buchung bestätigt wird, dann ist Ihre Buchung storniert und Sie erhalten eine Rückerstattung. Die Bearbeitungszeit hängt von Ihrer Bank ab. Wenden Sie sich bei Fragen bitte direkt an Ihre Bank."
+    },
+    {
+        "question": "Wo finde ich die Stornierungsrichtlinie?",
+        "answer": "Diese finden Sie in der E-Mail mit Ihrer Buchungsbestätigung."
+    },
+    {
+        "question": "Kann ich für diese Buchung einen Gutschein oder Werbelink verwenden?",
+        "answer": "Nein. Diese Buchung kann nicht unter Verwendung von Prämien oder Incentive-Programme getätigt werden. Selbst mit der Nutzung eines einmaligen Links oder Codes für diese Buchung erhalten Sie keine Prämie für diesen Aufenthalt."
+    },
+    {
+        "question": "Zählt diese Buchung zu meinem Genius-Level oder meiner Mitgliedschaft?",
+        "answer": "Nein, diese Buchung zählt nicht zu Ihren Genius-Buchungen oder dem Level Ihrer Mitgliedschaft."
+    },
+    {
+        "question": "Ist diese Buchung teilnahmeberechtigt für „Wir bieten den gleichen Preis”?",
+        "answer": "Nein. Diese Buchung ist nicht für „Wir bieten den gleichen Preis” teilnahmeberechtigt."
+    },
+    {
+        "question": "Kann ich Guthaben nutzen, um diese Buchung zu machen?",
+        "answer": "Nein, es ist nicht möglich, Reiseguthaben bei Buchungen einzusetzen, die von Partnerreiseunternehmen durchgeführt werden. Wählen Sie bitte ein anderes Zimmer oder eine andere Rate."
+    },
+    {
+        "question": "Ich habe meine Buchung bezahlt, aber keine Bestätigung per E-Mail erhalten. Was soll ich tun?",
+        "answer": "Sie erhalten eine Bestätigungs-E-Mail, sobald Ihre Buchung bestätigt wurde. Dies sollte nur etwa zwei Minuten dauern, manchmal kann es aber auch länger dauern. Bitte überprüfen Sie auch Ihren Spam-Ordner/Papierkorb, wenn Sie nach dieser E-Mail suchen. Sie könnte versehentlich dort gelandet sein. Falls Sie dann immer noch keine E-Mail erhalten haben, wenden Sie sich bitte an unseren Kundenservice."
+    },
+    {
+        "question": "Können Sie mir meine Bestätigung erneut per E-Mail zusenden?",
+        "answer": "Sie erhalten immer einige Tage vor Check-in erneut eine Bestätigung per E-Mail. Wenn Sie ein Booking.com-Konto haben, finden Sie Ihre Bestätigung ebenfalls unter „Buchungen” in Ihrem Konto. Falls wir Ihnen trotzdem noch eine Bestätigung per E-Mail zusenden sollen, wenden Sie sich hierfür bitte an unseren Kundenservice."
+    },
+    {
+        "question": "Ich kann meine Bestätigungs-E-Mail nicht finden. Was soll ich tun?",
+        "answer": "Sehen Sie zunächst in Ihrem Posteingang und Spam-Ordner nach. Sie könnte versehentlich als Spam zugeordnet sein. Wenn Sie ein Booking.com-Konto haben, finden Sie Ihre Bestätigung ebenfalls unter „Buchungen” in Ihrem Konto."
+    },
+    {
+        "question": "Warum und wie lange muss ich auf die Bestätigung meiner Buchung warten?",
+        "answer": "Wir müssen bei unserem Partnerreiseunternehmen überprüfen, ob Ihre Auswahl tatsächlich noch verfügbar ist. Sie sollten innerhalb von zwei Minuten eine E-Mail erhalten. Suchen Sie in Ihrem Spam-Ordner/Papierkorb nach dieser E-Mail. Sie könnte versehentlich dort gelandet sein."
+    },
+    {
+        "question": "Meine Buchung ist noch immer nicht bestätigt. Was soll ich tun?",
+        "answer": "Sie erhalten innerhalb von einigen Minuten eine E-Mail, mit der Information, ob Ihre Buchung bestätigt wurde. Sehen Sie in Ihrem Posteingang und Spam-Ordner/Papierkorb nach, wenn Sie nach dieser E-Mail suchen. Wenn Sie sie dann immer noch nicht finden können, wenden Sie sich bitte an unseren Kundenservice."
+    },
+    {
+        "question": "Meine Bestätigungsnummer funktioniert nicht, wenn ich den Kundenservice anrufe. Was soll ich tun?",
+        "answer": "Für einen Anruf ist die Bestätigungsnummer zu lang und kann daher nicht richtig aufgenommen werden. Gehen Sie stattdessen zurKundenhilfe. Falls Sie sich bereits im Gespräch mit unserem Kundenservice befinden, informieren Sie ihn bitte, dass es sich um ein Angebot handelt, das von einem Partnerunternehmen durchgeführt wird, oder es ein Partnerangebot ist."
+    },
+    {
+        "question": "Die Unterkunft ist überbucht und/oder kann meine Buchung nicht finden. Was soll ich tun?",
+        "answer": "Bitte gehen Sie schnellstmöglich zurKundenhilfe."
+    },
+    {
+        "question": "Wie kann ich eine Zusatzleistung von der Unterkunft anfragen?",
+        "answer": "Falls Sie eine Zusatzleistung wie ein Zustellbett, frühen Check-in oder Transport zur Unterkunft anfragen möchten, kontaktieren Sie bitte 1-2 Tage vor Ihrer Anreise direkt die Unterkunft. Ihre Anfrage kann nicht garantiert erfüllt werden, aber sie kann Ihnen eventuell weiterhelfen."
+    },
+    {
+        "question": "Wie kann ich einen frühen oder späten Check-in oder Check-out anfragen?",
+        "answer": "Falls Sie einen frühen oder späten Check-in oder Check-out anfragen möchten, kontaktieren Sie bitte 1-2 Tage vor Ihrer Anreise direkt die Unterkunft. Ihre Anfrage kann nicht garantiert erfüllt werden, aber sie kann Ihnen eventuell weiterhelfen."
+    },
+    {
+        "question": "Wo finde ich mehr Informationen zu den Einrichtungen der Unterkunft?",
+        "answer": "Klicken Sie auf der Bestätigungsseite auf den Unterkunftsnamen, um zur Unterkunftsseite zu gelangen. Dort finden Sie eine komplette Liste mit den Einrichtungen der Unterkunft."
+    },
+    {
+        "question": "Kann ich den Namen des Gastes für diese Buchung ändern?",
+        "answer": "Leider können keine persönlichen Angaben wie der Name des Gastes oder die E-Mail-Adresse geändert werden."
+    },
+    {
+        "question": "Kann ich Zustell-/Babybetten für mein Kind/meine Kinder anfragen?",
+        "answer": "Das kommt auf die Richtlinien der Unterkunft an. Normalerweise sind die Zusatzkosten für Kinder, darunter die für Zustell-/Babybetten, nicht im Preis inbegriffen. Bitte kontaktieren Sie die Unterkunft 1-2 Tage vor Ihrem Aufenthalt direkt, um mehr zu erfahren."
+    },
+    {
+        "question": "Ich kann meine Buchung nicht in meinem Konto finden. Was soll ich tun?",
+        "answer": "Wenn Sie während des Buchungsvorgangs angemeldet waren, sollte die Buchung unter „Buchungen” in Ihrem Konto zu sehen sein.Wenn Sie während des Buchungsvorgangs nicht angemeldet gewesen sind, wird die Buchung dort nicht erscheinen und Sie können sie auch nicht zu Ihrem Konto hinzufügen.Wenn Sie kein Konto haben oder während des Buchungsvorgangs nicht angemeldet gewesen sind, sehen Sie in Ihrem E-Mail-Posteingang bitte nach Ihrer Bestätigungs-E-Mail."
+    },
+    {
+        "question": "Wie füge ich meine Buchung zu meinem Konto hinzu?",
+        "answer": "Leider kann diese Buchung nicht zu Ihrem Konto hinzugefügt werden. Wir arbeiten daran, diese Option in Zukunft bereitzustellen."
+    },
+    {
+        "question": "Sind Mahlzeiten in meiner Buchung inbegriffen?",
+        "answer": "Sie erfahren in Ihrer Bestätigungs-E-Mail, ob irgendwelche Mahlzeiten inbegriffen sind oder nicht. Je nach Unterkunft ist es eventuell möglich, bei Ihrer Ankunft Verpflegung hinzuzubuchen. Bitte kontaktieren Sie 1-2 Tage vor Ihrem Aufenthalt direkt die Unterkunft, um mehr zu erfahren."
+    },
+    {
+        "question": "Bei meiner Ankunft habe ich erfahren, dass mein Zimmer/meine Unterkunft nicht das war, was ich gebucht hatte. Was soll ich tun?",
+        "answer": "Bitte gehen Sie zu unsererKundenhilfe. Dort werden Sie womöglich einen Screenshot der nicht zusammenpassenden Informationen sowie einen Beleg als Zahlungsnachweis, falls Sie zusätzliche Gebühren zahlen mussten, an unseren Kundenservice schicken müssen."
+    },
+    {
+        "question": "Was ist ein Partnerangebot?",
+        "answer": "Um Ihnen wettbewerbsfähigere Preise anbieten zu können, arbeiten wir manchmal mit anderen Unternehmen zusammen. Diese Angebote werden immer im Voraus bezahlt und können nicht zusammen mit anderen Angeboten gebucht werden. Außerdem können Ihre persönlichen Angaben oder Buchungsinformationen nach der Buchung nicht geändert werden."
+    },
+    {
+        "question": "Wie werden meine persönlichen Angaben geschützt, wenn ich eine Option von einem weiteren Partnerunternehmen buche?",
+        "answer": "Wir teilen nur Informationen mit Partnerunternehmen (Reiseanbietern), die relevant für das Abschließen Ihrer Buchung sind. Alle Einzelheiten dazu finden Sie in unserenDatenschutzbestimmungen."
+    }
+]
